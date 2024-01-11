@@ -1,0 +1,99 @@
+{
+  "appName": "Yousef Salah Kassem",
+  "errors": {
+    "error": "Error occurred !",
+    "unknown_error": "Unknown error",
+    "required": "Fill the required field",
+    "requiredAll": "Fill the required fields",
+    "phone_required": "Please enter the phone number !",
+    "no_user_found_with_this_email": "No user found with this email",
+    "wrong_password": "Wrong password",
+    "user_not_found": "User not found",
+    "user_not_activated": "User not activated",
+    "email_already_exists": "Email already exists",
+    "email_required": "Please enter an email",
+    "username_already_exists": "Username already exists",
+    "phone_already_exists": "Phone already exists",
+    "otp_required": "Empty code, Please enter the verification code",
+    "invalid_email": "Invalid email",
+    "invalid_phone": "Invalid phone",
+    "invalid_username": "Invalid username",
+    "invalid_password": "Invalid password",
+    "email_already_in_use": "Email already in use",
+    "weak_password": "Weak password",
+    "weak_about": "The length of the 'value' field text must be at least 10 characters.",
+    "strong_about": "The length of the 'value' field text should not exceed 1000 characters.",
+    "upload_image": "Please upload images !",
+    "notLinkedToClinic": "Your email not linked to clinic",
+    "network_error_message": "Something went wrong",
+    "network_error_description": "Make sure wifi or cellular data is turned on and try again",
+    "try_again": "Try again"
+  },
+  "success": {
+    "success": "Congratulations !"
+  },
+  "common": {
+    "loading": "Loading !",
+    "cancel": "Cancel",
+    "others": "Other",
+    "any": "Any",
+    "soon": "Soon",
+    "refresh": "Refresh",
+    "upload": "Upload",
+    "gallery": "Gallery",
+    "camera": "Camera",
+    "choose": "Choose an option",
+    "chooseDescription": "Select the source for your image",
+    "title": "Edit Profile"
+  },
+  "login": {
+    "title": "Account Login",
+    "email": "Email Address",
+    "password": "Password",
+    "remember": "Remember me",
+    "forgot": "Forgot Password?",
+    "submit": "Login",
+    "didNotHaveAccount": "Don’t have an account ?",
+    "register": " Register"
+  },
+  "register": {
+    "title": "Register",
+    "firstPage": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "userType": "User Type",
+      "next": "Next"
+    },
+    "secondPage": {
+      "complete": "Complete Data",
+      "about": "About",
+      "salary": "Salary",
+      "currency": "Sar",
+      "date": "Birth Date",
+      "gender": "Gender",
+      "males": "Male",
+      "females": "Female",
+      "skills": "Skills",
+      "social": "Favourite Social Media",
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "linkedin": "Linkedin",
+      "submit": "Submit"
+    }
+  },
+  "tabs": {
+    "profile": "Who Am I",
+    "countries": "Countries",
+    "services": "Services"
+  },
+  "countries": {
+    "country": "Country",
+    "capital": "Capital"
+  },
+  "service": {
+    "popular": "Popular Services"
+  }
+}
